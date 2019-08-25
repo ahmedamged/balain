@@ -1,11 +1,11 @@
 @font-face {
 font-family: "B Davat";
-src: url("fonts/ArbFonts.com/ArbFONTS-BDavat.ttf");
+src: url("ArbFONTS-BDavat.ttf");
 }
 
 @font-face {
 font-family: "AvenirNext";
-src: url("fonts/ave_next_ssv/AvenirNextLTPro-Regular.otf");
+src: url("AvenirNextLTPro-Regular.otf");
 }
 
 body{
